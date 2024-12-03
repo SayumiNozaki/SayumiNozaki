@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on everything that make me fell interested about.
 - 📫 How to reach me: sayuminozaki17@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love games, musics
+- ⚡ Fun fact: I love games, musics and cookies xD
+  
 
 <!---
 SayumiNozaki/SayumiNozaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
