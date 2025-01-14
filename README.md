@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayumiNozaki
 - 👀 I’m interested in see the nothern lights!!
-- 🌱 I’m currently learning about C#.
+- 🌱 I’m currently learning about C# and SQL.
 - 💞️ I’m looking to collaborate on everything that make me fell interested about.
 - 📫 How to reach me: sayuminozaki17@gmail.com
 - 😄 Pronouns: she/her
