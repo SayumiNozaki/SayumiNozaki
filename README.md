@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @SayumiNozaki
-- 👀 I’m interested in see the nothern lights!!
-- 🌱 I’m currently learning about C# and SQL.
-- 💞️ I’m looking to collaborate on everything that make me fell interested about.
-- 📫 How to reach me: sayuminozaki17@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love play games like valorant, league of legends, the forest, minecraft (or whatever, if it's with friends i'll play), and doing this while listening spotify it's perfect!(Even better whith some cookie and WATER!) xD
-  
+E aí, tudo bem? 
+Eu me chamo Sayumi, tenho 23 anos e sou formada em Análise e Desenvolvimento de Sistemas pela UNIP em São José dos Campos - SP.
+Gosto de C# e Banco de dados (SQL Server), então qualquer ajuda ou dúvida será sempre bem-vindo.
+Fique à vontade para explorar os meus projetos ou me contatar.
+
+E-mail: sayuminozaki17@gmail.com
+
+
+
+
 
 <!---
 SayumiNozaki/SayumiNozaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
